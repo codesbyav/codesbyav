@@ -47,7 +47,7 @@
 ### Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/ananya-verma-121803257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="20" width="20" />
     LinkedIn
   </a>
