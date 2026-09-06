@@ -11,7 +11,7 @@
 -  I’m currently learning **Python, AI-ML algo and Web Animations**  
 -  Ask me about **MongoDB, Express.js, React, Node.js**  
 -  How to reach me: **codedbyananya@gmail.com**  
--  All of my projects are available at [My Portfolio]()  
+  
 
 ---
 
